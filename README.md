@@ -4,7 +4,10 @@ Project 'Clock'. Prerequisites: using pattern 'Adapter', hands position is store
 ## Get Started   
 - Restore Nuget Packages   
 - Build solution   
-- Run   
+- Run 
+
+### Main App Window   
+![main_window](/docs/main_window.png)
 
 ## Run tests using CLI   
 - Open command line   
@@ -15,3 +18,6 @@ Project 'Clock'. Prerequisites: using pattern 'Adapter', hands position is store
 ```   
 
 ### Diagram   
+![diagram](/docs/Diagram.png)   
+
+ 
