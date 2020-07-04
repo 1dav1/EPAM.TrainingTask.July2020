@@ -1,5 +1,5 @@
 # EPAM.TrainingTask.July2020
-Project 'Clock'. Prerequisites: using pattern 'Adapter', hands position is stored in class 'AnalogClock'
+Project 'Clock'. Prerequisites: using pattern 'Adapter', hands position is stored in class 'AnalogClock'.
 
 ## Get Started   
 - Restore Nuget Packages   
@@ -20,4 +20,8 @@ Project 'Clock'. Prerequisites: using pattern 'Adapter', hands position is store
 ### Diagram   
 ![diagram](/docs/Diagram.png)   
 
- 
+
+#### To open Task [click here][link].    
+
+[link]:</docs/Task Interview Net 2020.pdf>
+
