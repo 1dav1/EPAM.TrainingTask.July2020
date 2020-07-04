@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ClockClassLibrary\ClockClassLibrary.csproj">
-      <Project>{14e1dde9-8243-44b7-a370-3d95c92ecf2f}</Project>
+      <Project>{52759136-1cbd-41c4-81d6-5873928be2e3}</Project>
       <Name>ClockClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
